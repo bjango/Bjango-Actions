@@ -9,7 +9,7 @@
   / _ \/ _|  _| / _ \ ' \(_-<
  /_/ \_\__|\__|_\___/_||_/__/
 
------------------------ 1.3 -
+---------------------- 1.31 -
 
 Some awesome Photoshop Actions and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit http://bjango.com/articles/actions/
 
