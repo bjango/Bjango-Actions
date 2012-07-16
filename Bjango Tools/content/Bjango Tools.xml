@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpc defaultLocale="en_US" version="3" keySequence="49" currentLocale="en_US">
+  <product appid="PHSP" version="13" name="Photoshop CS6"/>
+  <target id="PHSP-13"/>
+  <ConfiguratorPanel name="Bjango Tools" width="260" height="60" minWidth="260" minHeight="60" maxHeight="60" init="doInit" close="doClose" persistent="true" normalIcon="/Users/marcedwards/Desktop/bjango-tools.png" darkNormalIcon="/Users/marcedwards/Desktop/bjango-tools-dark.png" extensionId="com.configurator.extension" extensionVersion="1.0.0" menuName="Bjango Tools" flyoutMenuAbout="$$$/Configurator/FlyoutMenu/about">
+    <onInit><![CDATA[]]></onInit>
+    <aboutBox><![CDATA[]]></aboutBox>
+    <onClose><![CDATA[]]></onClose>
+    <eventListeners>
+      <function id="doInit" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onInit"/>
+      </function>
+      <function id="doClose" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onClose"/>
+      </function>
+    </eventListeners>
+    <ps_tool _selectID="rectangleTool" _itemId="Tool-Rectangle_Tool" icon="SP_Rectangle_Lg_N" overIcon="SP_Rectangle_Lg_N_D" toolTip="$$$/Tool-Rectangle_Tool/desc" scriptID="Tool-Rectangle_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###1" width="29" height="26" x="5" y="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="roundedRectangleTool" _itemId="Tool-Rounded_Rectangle_Tool" icon="SP_RoundedRectangle_Lg_N" overIcon="SP_RoundedRectangle_Lg_N_D" toolTip="$$$/Tool-Rounded_Rectangle_Tool/desc" scriptID="Tool-Rounded_Rectangle_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###2" width="29" height="26" x="36" y="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="ellipseTool" _itemId="Tool-Ellipse_Tool" icon="SP_Ellipse_Lg_N" overIcon="SP_Ellipse_Lg_N_D" toolTip="$$$/Tool-Ellipse_Tool/desc" scriptID="Tool-Ellipse_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###3" width="29" height="26" x="67" y="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="pathComponentSelectTool" _itemId="Tool-Path_Selection_Tool" icon="SP_Select_Lg_N" overIcon="SP_Select_Lg_N_D" toolTip="$$$/Tool-Path_Selection_Tool/desc" scriptID="Tool-Path_Selection_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###9" width="29" height="26" x="36" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="directSelectTool" _itemId="Tool-Direct_Selection_Tool" icon="SP_AnchorSelect_Lg_N" overIcon="SP_AnchorSelect_Lg_N_D" toolTip="$$$/Tool-Direct_Selection_Tool/desc" scriptID="Tool-Direct_Selection_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###10" width="29" height="26" x="67" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="penTool" _itemId="Tool-Pen_Tool" icon="SP_VectorDraw_Lg_N" overIcon="SP_VectorDraw_Lg_N_D" toolTip="$$$/Tool-Pen_Tool/desc" scriptID="Tool-Pen_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###4" width="29" height="26" x="98" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="freeformPenTool" _itemId="Tool-Freeform_Pen_Tool" icon="SP_FreeformVectorDraw_Lg_N" overIcon="SP_FreeformVectorDraw_Lg_N_D" toolTip="$$$/Tool-Freeform_Pen_Tool/desc" scriptID="Tool-Freeform_Pen_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###5" width="29" height="26" x="129" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="addKnotTool" _itemId="Tool-Add_Anchor_Point_Tool" icon="SP_AnchorAdd_Lg_N" overIcon="SP_AnchorAdd_Lg_N_D" toolTip="$$$/Tool-Add_Anchor_Point_Tool/desc" scriptID="Tool-Add_Anchor_Point_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###6" width="29" height="26" x="160" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="deleteKnotTool" _itemId="Tool-Delete_Anchor_Point_Tool" icon="SP_AnchorDel_Lg_N" overIcon="SP_AnchorDel_Lg_N_D" toolTip="$$$/Tool-Delete_Anchor_Point_Tool/desc" scriptID="Tool-Delete_Anchor_Point_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###7" width="29" height="26" x="191" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="convertKnotTool" _itemId="Tool-Convert_Point_Tool" icon="SP_ConvertAnchor_Lg_N" overIcon="SP_ConvertAnchor_Lg_N_D" toolTip="$$$/Tool-Convert_Point_Tool/desc" scriptID="Tool-Convert_Point_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###8" width="29" height="26" x="222" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="moveTool" _itemId="Tool-Move_Tool" icon="SP_Move_Lg_N" overIcon="SP_Move_Lg_N_D" toolTip="$$$/Tool-Move_Tool/desc" scriptID="Tool-Move_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###29" width="29" height="26" x="5" y="5">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="typeCreateOrEditTool" _itemId="Tool-Horizontal_Type_Tool" icon="SP_TypeHoriz_Lg_N" overIcon="SP_TypeHoriz_Lg_N_D" toolTip="$$$/Tool-Horizontal_Type_Tool/desc" scriptID="Tool-Horizontal_Type_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###30" width="29" height="26" x="98" y="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="eyedropperTool" _itemId="Tool-Eyedropper_Tool" icon="SP_Sampler_Lg_N" overIcon="SP_Sampler_Lg_N_D" toolTip="$$$/Tool-Eyedropper_Tool/desc" scriptID="Tool-Eyedropper_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###31" width="29" height="26" x="129" y="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_tool _selectID="cropTool" _itemId="Tool-Crop_Tool" icon="SP_Crop_Lg_N" overIcon="SP_Crop_Lg_N_D" toolTip="$$$/Tool-Crop_Tool/desc" scriptID="Tool-Crop_Tool" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###34" width="29" height="26" x="160" y="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+          <param id="scriptID"/>
+        </function>
+      </eventListeners>
+    </ps_tool>
+    <ps_action _itemId="ps_actionscript_action" label="$$$/Configurator/ActionScript/Action/name###35" toolTip="$$$/Configurator/ActionScript/Action/desc###36" cfgVisible="$$$/Configurator/Attribute/visible/value###37" click="onClick" icon="ps_action" overIcon="ps_action_r" actionSet="$$$/Configurator/key_###38" actionName="$$$/Configurator/key_###39" showIcon="false" x="191" y="33" width="29" height="26">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_action">
+          <param id="actionSet"/>
+          <param id="actionName"/>
+        </function>
+      </eventListeners>
+    </ps_action>
+    <ps_action _itemId="ps_actionscript_action" label="$$$/Configurator/ActionScript/Action/name###45" toolTip="$$$/Configurator/ActionScript/Action/desc###46" cfgVisible="$$$/Configurator/Attribute/visible/value###47" click="onClick" icon="ps_action" overIcon="ps_action_r" actionSet="$$$/Configurator/key_###48" actionName="$$$/Configurator/key_###49" showIcon="false" x="222" y="33" width="29" height="26">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_action">
+          <param id="actionSet"/>
+          <param id="actionName"/>
+        </function>
+      </eventListeners>
+    </ps_action>
+  </ConfiguratorPanel>
+  <images>
+    <image id="SP_Rectangle_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Rectangle_Lg_N"/>
+    <image id="SP_Rectangle_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Rectangle_Lg_N_D"/>
+    <image id="SP_RoundedRectangle_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_RoundedRectangle_Lg_N"/>
+    <image id="SP_RoundedRectangle_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_RoundedRectangle_Lg_N_D"/>
+    <image id="SP_Ellipse_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Ellipse_Lg_N"/>
+    <image id="SP_Ellipse_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Ellipse_Lg_N_D"/>
+    <image id="SP_Select_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Select_Lg_N"/>
+    <image id="SP_Select_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Select_Lg_N_D"/>
+    <image id="SP_AnchorSelect_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_AnchorSelect_Lg_N"/>
+    <image id="SP_AnchorSelect_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_AnchorSelect_Lg_N_D"/>
+    <image id="SP_VectorDraw_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_VectorDraw_Lg_N"/>
+    <image id="SP_VectorDraw_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_VectorDraw_Lg_N_D"/>
+    <image id="SP_FreeformVectorDraw_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_FreeformVectorDraw_Lg_N"/>
+    <image id="SP_FreeformVectorDraw_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_FreeformVectorDraw_Lg_N_D"/>
+    <image id="SP_AnchorAdd_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_AnchorAdd_Lg_N"/>
+    <image id="SP_AnchorAdd_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_AnchorAdd_Lg_N_D"/>
+    <image id="SP_AnchorDel_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_AnchorDel_Lg_N"/>
+    <image id="SP_AnchorDel_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_AnchorDel_Lg_N_D"/>
+    <image id="SP_ConvertAnchor_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_ConvertAnchor_Lg_N"/>
+    <image id="SP_ConvertAnchor_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_ConvertAnchor_Lg_N_D"/>
+    <image id="SP_Move_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Move_Lg_N"/>
+    <image id="SP_Move_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Move_Lg_N_D"/>
+    <image id="SP_TypeHoriz_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_TypeHoriz_Lg_N"/>
+    <image id="SP_TypeHoriz_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_TypeHoriz_Lg_N_D"/>
+    <image id="SP_Sampler_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Sampler_Lg_N"/>
+    <image id="SP_Sampler_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Sampler_Lg_N_D"/>
+    <image id="SP_Crop_Lg_N" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Crop_Lg_N"/>
+    <image id="SP_Crop_Lg_N_D" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="SP_Crop_Lg_N_D"/>
+    <image id="ps_action" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="ps_action"/>
+    <image id="ps_action_r" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="ps_action_r"/>
+    <image id="ps_action" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="ps_action"/>
+    <image id="ps_action_r" swf="bundles/PHSP-13/PHSP13Bundle.swf_" className="PHSP13Bundle" varName="ps_action_r"/>
+  </images>
+  <scripts>
+    <script id="Tool-Rectangle_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc123 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref123 = new ActionReference();         var idrectangleTool = stringIDToTypeID( 'rectangleTool' );         ref123.putClass( idrectangleTool );     desc123.putReference( idnull, ref123 ); executeAction( idslct, desc123, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Rounded_Rectangle_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc124 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref124 = new ActionReference();         var idroundedRectangleTool = stringIDToTypeID( 'roundedRectangleTool' );         ref124.putClass( idroundedRectangleTool );     desc124.putReference( idnull, ref124 ); executeAction( idslct, desc124, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Ellipse_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc125 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref125 = new ActionReference();         var idellipseTool = stringIDToTypeID( 'ellipseTool' );         ref125.putClass( idellipseTool );     desc125.putReference( idnull, ref125 ); executeAction( idslct, desc125, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Path_Selection_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc121 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref121 = new ActionReference();         var idpathComponentSelectTool = stringIDToTypeID( 'pathComponentSelectTool' );         ref121.putClass( idpathComponentSelectTool );     desc121.putReference( idnull, ref121 ); executeAction( idslct, desc121, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Direct_Selection_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc122 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref122 = new ActionReference();         var iddirectSelectTool = stringIDToTypeID( 'directSelectTool' );         ref122.putClass( iddirectSelectTool );     desc122.putReference( idnull, ref122 ); executeAction( idslct, desc122, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Pen_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc112 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref112 = new ActionReference();         var idpenTool = stringIDToTypeID( 'penTool' );         ref112.putClass( idpenTool );     desc112.putReference( idnull, ref112 ); executeAction( idslct, desc112, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Freeform_Pen_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc113 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref113 = new ActionReference();         var idfreeformPenTool = stringIDToTypeID( 'freeformPenTool' );         ref113.putClass( idfreeformPenTool );     desc113.putReference( idnull, ref113 ); executeAction( idslct, desc113, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Add_Anchor_Point_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc114 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref114 = new ActionReference();         var idaddKnotTool = stringIDToTypeID( 'addKnotTool' );         ref114.putClass( idaddKnotTool );     desc114.putReference( idnull, ref114 ); executeAction( idslct, desc114, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Delete_Anchor_Point_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc115 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref115 = new ActionReference();         var iddeleteKnotTool = stringIDToTypeID( 'deleteKnotTool' );         ref115.putClass( iddeleteKnotTool );     desc115.putReference( idnull, ref115 ); executeAction( idslct, desc115, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Convert_Point_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc116 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref116 = new ActionReference();         var idconvertKnotTool = stringIDToTypeID( 'convertKnotTool' );         ref116.putClass( idconvertKnotTool );     desc116.putReference( idnull, ref116 ); executeAction( idslct, desc116, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Move_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc67 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref67 = new ActionReference();         var idmoveTool = stringIDToTypeID( 'moveTool' );         ref67.putClass( idmoveTool );     desc67.putReference( idnull, ref67 ); executeAction( idslct, desc67, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Horizontal_Type_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc117 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref117 = new ActionReference();         var idtypeCreateOrEditTool = stringIDToTypeID( 'typeCreateOrEditTool' );         ref117.putClass( idtypeCreateOrEditTool );     desc117.putReference( idnull, ref117 ); executeAction( idslct, desc117, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Eyedropper_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc81 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref81 = new ActionReference();         var ideyedropperTool = stringIDToTypeID( 'eyedropperTool' );         ref81.putClass( ideyedropperTool );     desc81.putReference( idnull, ref81 ); executeAction( idslct, desc81, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+    <script id="Tool-Crop_Tool"><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( 'slct' );     var desc77 = new ActionDescriptor();     var idnull = charIDToTypeID( 'null' );         var ref77 = new ActionReference();         var idcropTool = stringIDToTypeID( 'cropTool' );         ref77.putClass( idcropTool );     desc77.putReference( idnull, ref77 ); executeAction( idslct, desc77, DialogModes.ALL ); } catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+  </scripts>
+  <elements>
+    <element id="ConfiguratorPanel" classRT="com.adobe.configurator2.component.panel.PanelRuntime">
+      <attr id="name" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="minWidth" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="minHeight" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="maxWidth" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="maxHeight" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="persistent" meta="Other" translate="y"/>
+      <attr id="extensionId" meta="Other" translate="y"/>
+      <attr id="extensionVersion" meta="Other" translate="y"/>
+      <attr id="menuName" meta="Other" translate="y"/>
+      <attr id="init" meta="EVENT" translate="y"/>
+      <attr id="close" meta="EVENT" translate="y"/>
+      <attr id="onInit" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="aboutBox" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="flyoutMenuAbout" meta="Other" localize="y" translate="y"/>
+      <attr id="normalIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="rollOverIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="darkNormalIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="ps_tool" classRT="com.adobe.configurator2.component.ToolButtonRuntime">
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="overIcon" meta="UI_STYLE" translate="y"/>
+      <attr id="icon" meta="UI_STYLE" translate="y"/>
+      <attr id="click" meta="EVENT" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+    <element id="ps_action" classRT="com.adobe.configurator2.component.CustomButtonRuntime">
+      <attr id="actionName" meta="OTHER" localize="y" translate="y"/>
+      <attr id="actionSet" meta="OTHER" localize="y" translate="y"/>
+      <attr id="icon" meta="UI_STYLE" translate="y"/>
+      <attr id="label" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="toolTip" meta="UI_ACCESSOR" localize="y" translate="y"/>
+      <attr id="click" meta="EVENT" translate="y"/>
+      <attr id="showIcon" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="top" meta="UI_STYLE" translate="y"/>
+      <attr id="bottom" meta="UI_STYLE" translate="y"/>
+      <attr id="left" meta="UI_STYLE" translate="y"/>
+      <attr id="right" meta="UI_STYLE" translate="y"/>
+      <attr id="horizontalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="verticalCenter" meta="UI_STYLE" translate="y"/>
+      <attr id="x" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="y" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="cfgVisible" meta="UI_ACCESSOR" localize="y"/>
+      <attr id="width" meta="UI_ACCESSOR" translate="y"/>
+      <attr id="height" meta="UI_ACCESSOR" translate="y"/>
+    </element>
+  </elements>
+  <properties>
+    <property id="LocaleSearchPath1">${HostProductRoot}/Locales/${LocaleID}/Support Files/Panels/fsPanels.xml</property>
+    <property id="LocaleSearchPath2">${HostProductRoot}/Locales/${LocaleID}/Support Files/Panels/${PanelName}/dictionary.xml</property>
+  </properties>
+</gpc>
