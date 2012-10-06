@@ -1,4 +1,4 @@
------------------------------
+<pre>-----------------------------
   ___  _                    
  | _ )(_)__ _ _ _  __ _ ___ 
  | _ \| / _` | ' \/ _` / _ \
@@ -9,7 +9,7 @@
   / _ \/ _|  _| / _ \ ' \(_-<
  /_/ \_\__|\__|_\___/_||_/__/
 
------------------------ 1.6 -
+----------------------- 1.6 -</pre>
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
@@ -17,7 +17,7 @@ Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iO
 The full set of Photoshop Actions. The default set.
 
 ### Bjango Actions with scripts.atn
-The full set of Photoshop Actions. Scaling Actions also resets pattern scales, using the Scale Patterns to 100% script (http://bjango.com/articles/scalepatternsto100/), and scales mask feathering, using the Scale Mask Feather by 200% and Scale Mask Feather by 50% scripts. You'll need to install the scripts for these to work.
+The full set of Photoshop Actions. Scaling Actions also resets pattern scales, using the [Scale Patterns to 100% script](http://bjango.com/articles/scalepatternsto100/) and scales mask feathering, using the Scale Mask Feather by 200% and Scale Mask Feather by 50% scripts. You'll need to install the scripts for these to work.
 
 ### Other Actions/Bjango Actions (Old).atn
 Old and outdated Photoshop Actions. Might be handy if you're using Photoshop CS5 or earlier.
