@@ -26,7 +26,7 @@ A Photoshop panel that includes the most frequently used tools for interface and
 Old and outdated Photoshop Actions. Might be handy if you're using Photoshop CS5 or earlier.
 
 ### Other/Scaling with and without scripts.gif
-An animated demonstrating the benefit of the scripts. Animation is choreographed to Woman Friend by Chromeo (music not actually included, so you'll have to hum it). 
+An animated demonstration of the benefit of the scripts. The animation is choreographed to Woman Friend by Chromeo (music not actually included, so you'll have to hum it). 
 
 ### Scripts
 Four amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scipts scale mask feathering by 200%, 50% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu. **If you're using the Bjango Actions.atn file, you must have these installed.**
