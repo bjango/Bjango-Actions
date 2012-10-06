@@ -1,15 +1,4 @@
-<pre>-----------------------------
-  ___  _                    
- | _ )(_)__ _ _ _  __ _ ___ 
- | _ \| / _` | ' \/ _` / _ \
- |___// \__,_|_||_\__, \___/
-    |__/          |___/     
-    _      _   _             
-   /_\  __| |_(_)___ _ _  ___
-  / _ \/ _|  _| / _ \ ' \(_-<
- /_/ \_\__|\__|_\___/_||_/__/
-
------------------------ 1.6 -</pre>
+# Bjango Actions 1.6
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
