@@ -19,7 +19,7 @@ if (response!=null){
     scaleFactor=parseFloat(response)
     docRef=activeDocument
     if(docRef.layers.length>1 || docRef.activeLayer.isBackgroundLayer==false){
-        docRef.suspendHistory('Halve Mask Feather', 'main()');
+        docRef.suspendHistory('Scale Mask Feather '+scaleFactor+'x', 'main()');
     }
 }
 
