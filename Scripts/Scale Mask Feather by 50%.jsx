@@ -50,7 +50,7 @@ var desc = executeActionGet(ref);
             
             setVMF(vMF * scaleFactor)
             setLMF(lMF * scaleFactor)
-        Scale Mask Feather by 50%
+        }catch(err){}
      
     }else{
         vMF=parseFloat(activeDocument.activeLayer.vectorMaskFeather)
