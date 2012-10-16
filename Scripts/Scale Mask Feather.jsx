@@ -19,7 +19,7 @@ if (response!=null){
     scaleFactor=parseFloat(response)
     docRef=activeDocument
     if(docRef.layers.length>1 || docRef.activeLayer.isBackgroundLayer==false){
-        docRef.suspendHistory('Halve Mask Feather', 'main()');
+        docRef.suspendHistory('Scale Mask Feather '+scaleFactor+'x', 'main()');
     }
 }
 
@@ -39,19 +39,21 @@ ref.putEnumerated( charIDToTypeID("Lyr "), charIDToTypeID("Ordn"), charIDToTypeI
 
 var desc = executeActionGet(ref);
     if (docRef.activeLayer.kind == undefined){
-        var idMrgtwo = charIDToTypeID( "Mrg2" );
-        var desc197 = new ActionDescriptor();
-        var idAply = charIDToTypeID( "Aply" );
-        desc197.putBoolean( idAply, true );
-        executeAction( idMrgtwo, desc197, DialogModes.NO );
-        
-        vMF=parseFloat(activeDocument.activeLayer.vectorMaskFeather)
-        lMF=parseFloat(activeDocument.activeLayer.layerMaskFeather)  
-        
-        executeAction( charIDToTypeID( "undo" ), undefined, DialogModes.NO );
-        
-        setVMF(vMF * scaleFactor)
-        setLMF(lMF * scaleFactor)
+        try{
+            var idMrgtwo = charIDToTypeID( "Mrg2" );
+            var desc197 = new ActionDescriptor();
+            var idAply = charIDToTypeID( "Aply" );
+            desc197.putBoolean( idAply, true );
+            executeAction( idMrgtwo, desc197, DialogModes.NO );
+            
+            vMF=parseFloat(activeDocument.activeLayer.vectorMaskFeather)
+            lMF=parseFloat(activeDocument.activeLayer.layerMaskFeather)  
+            
+            executeAction( charIDToTypeID( "undo" ), undefined, DialogModes.NO );
+            
+            setVMF(vMF * scaleFactor)
+            setLMF(lMF * scaleFactor)
+        }catch(err){}
      
     }else{
         vMF=parseFloat(activeDocument.activeLayer.vectorMaskFeather)
