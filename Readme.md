@@ -5,7 +5,7 @@ Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iO
 -----------------------------
 
 ### Bjango Actions.atn
-The full set of Photoshop Actions. The Scale by 200% and Scale by 50% Actions also reset pattern scales, using the [Scale Patterns to 100% script](http://bjango.com/articles/scalepatternsto100/) and scale mask feathering, using the Scale Mask Feather by 200% and Scale Mask Feather by 50% scripts. You’ll need to install the scripts for these to work.
+The full set of Photoshop Actions. You’ll need to install the scripts for all of these actions to work.
 
 ### Bjango Actions without Scripts.atn
 The full set of Photoshop Actions, with scripts removed.
