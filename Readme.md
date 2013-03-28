@@ -1,4 +1,4 @@
-# Bjango Actions 1.7
+# Bjango Actions 1.71
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
