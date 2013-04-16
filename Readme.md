@@ -1,4 +1,4 @@
-# Bjango Actions 1.72
+# Bjango Actions 1.73
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
@@ -35,6 +35,7 @@ Some amazing Photoshop scripts that will change your life for the better. Scale 
 
 All Photoshop Actions, Photoshop Panels and Automator Workflows created by Marc Edwards ([@marcedwards](http://twitter.com/marcedwards) on Twitter, [@marc](http://alpha.app.net/marc) on App.net).
 All Mask Feathering scripts by David Jensen. Scale Patterns to 100% script by David Jensen, Mike Hale, Paul MR and Jacobolus.
+Improvements for the Dribbble selection actions suggested and prototyped by [@darkwark](http://twitter.com/darkwark).
 
 -----------------------------
 
