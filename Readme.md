@@ -1,4 +1,4 @@
-# Bjango Actions 1.81
+# Bjango Actions 1.82
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
@@ -29,7 +29,7 @@ Old and outdated Photoshop Actions. Might be handy if you’re using Photoshop C
 An animated demonstration of the benefit of the scripts. The animation is choreographed to Woman Friend by Chromeo (music not actually included, so you’ll have to hum it). 
 
 ### Scripts
-Some amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scripts scale mask feathering by 50%, 66.6%, 150%, 200% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu. **If you’re using the Bjango Actions.atn file, you must have these installed.**
+Some amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scripts scale mask feathering by 50%, 66.6%, 150%, 200%, 300% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu. **If you’re using the Bjango Actions.atn file, you must have these installed.**
 
 -----------------------------
 
