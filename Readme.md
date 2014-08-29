@@ -1,4 +1,4 @@
-# Bjango Actions 2.3.3
+# Bjango Actions 2.3.4
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
@@ -6,9 +6,6 @@ Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iO
 
 ### Bjango Actions.atn
 The full set of Photoshop Actions. You’ll need to install the scripts for all of these actions to work.
-
-### Bjango Actions without Scripts.atn
-The full set of Photoshop Actions, with scripts removed.
 
 ### iPhone Icon Template.psd and iPad Icon Template.psd
 The icon templates I use. You may or may not like it.
