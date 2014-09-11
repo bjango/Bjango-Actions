@@ -1,6 +1,23 @@
-# Bjango Actions 2.3.4
+# Bjango Actions 3.0
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
+
+-----------------------------
+
+## New in version 3?
+
+Lots of great stuff for working with 3× UI and icon densities, including:
+
+- Scale by 300% action.
+- Scale by 33.3% action.
+- Scale to 180×180 action (for @3x iPhone home icons).
+- Scale to 192×192 action (for xxxhdpi Android home icons).
+- Scale Mask Feather scripts for 33.3% and 400%.
+- iOS Icon Export Template.psd (for those working at 1× and auto sizing/exporting app icons).
+- A workflow for batch adding @3x to filenames.
+- A workflow for batch removing @3x from filenames.
+- New Yosemite-friendly workflow icons. Hooray!
+- Lots of other small fixes.
 
 -----------------------------
 
@@ -10,11 +27,11 @@ The full set of Photoshop Actions. You’ll need to install the scripts for all 
 ### iPhone Icon Template.psd and iPad Icon Template.psd
 The icon templates I use. You may or may not like it.
 
-### Workflows/Add @2x
-Drag files to this guy and he’ll add @2x to the end of the filename.
+### Workflows/Add @2x and Add @3x
+Drag files to this guy and he’ll add @2x or @3x to the end of the filename.
 
-### Workflows/Remove @2x
-Hi, I’ll remove @2x from your filenames, sir.
+### Workflows/Remove @2x and Remove @3x
+Hi, I’ll remove @2x or @3x from your filenames, sir.
 
 ### Workflows/Rename
 Need to change a file’s name? Welcome to the Filename Protection Program.
@@ -23,7 +40,7 @@ Need to change a file’s name? Welcome to the Filename Protection Program.
 An animated demonstration of the benefit of the scripts. The animation is choreographed to Woman Friend by Chromeo (music not actually included, so you’ll have to hum it). 
 
 ### Scripts
-Some amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scripts scale mask feathering by 50%, 66.6%, 150%, 200%, 300% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu. **If you’re using the Bjango Actions.atn file, you must have these installed.**
+Some amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scripts scale mask feathering by 33.3%, 50%, 66.6%, 150%, 200%, 300%, 400% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu.
 
 -----------------------------
 
@@ -32,3 +49,5 @@ All Photoshop Actions, Photoshop Panels and Automator Workflows created by Marc 
 -----------------------------
 
 More Photoshop articles and hugs can be found by visiting [bjango.com/articles/](http://bjango.com/articles/)
+
+Follow me on Twitter for more: [@marcedwards](https://twitter.com/marcedwards)
