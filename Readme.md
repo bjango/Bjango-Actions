@@ -4,7 +4,7 @@ Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iO
 
 -----------------------------
 
-## New in version 3?
+## New in version 3
 
 Lots of great stuff for working with 3× UI and icon densities, including:
 
