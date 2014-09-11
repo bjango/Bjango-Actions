@@ -40,7 +40,7 @@ Need to change a file’s name? Welcome to the Filename Protection Program.
 An animated demonstration of the benefit of the scripts. The animation is choreographed to Woman Friend by Chromeo (music not actually included, so you’ll have to hum it). 
 
 ### Scripts
-Some amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scripts scale mask feathering by 33.3%, 50%, 66.6%, 150%, 200%, 300%, 400% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu.
+Some amazing Photoshop scripts that will change your life for the better. Scale Patterns to 100% resets all patterns to 100% scale. The Scale Mask Feather scripts scale mask feathering by 33.3%, 50%, 66.6%, 150%, 200%, 300%, 400% or a value of your choosing. These are handy when you scale your documents. Place in your /Adobe Photoshop CC 2014/Presets/Scripts/ folder and restart Photoshop for the scripts to appear in Scripts under the File menu.
 
 -----------------------------
 
