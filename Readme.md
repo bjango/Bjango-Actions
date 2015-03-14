@@ -27,6 +27,15 @@ Lots of great stuff for working with 3× UI and icon densities, including:
 
 -----------------------------
 
+### Installation
+
+Open Terminal
+````bash
+$ cd /path/to/Bjango-Actions/
+$ ./install.sh
+````
+Restart Photoshop CC 2014
+
 ### Bjango Actions.atn
 The full set of Photoshop Actions. You’ll need to install the scripts for all of these actions to work.
 
