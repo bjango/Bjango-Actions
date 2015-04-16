@@ -1,6 +1,15 @@
-# Bjango Actions 3.0.1
+# Bjango Actions 3.1
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
+
+-----------------------------
+
+## New in version 3.1
+
+- Added Apple Watch 38mm and 42mm document creation actions.
+- Added collapse all groups to the end of actions that run scrips (cleans things up when done).
+- Added Scale by 400% action.
+- Added Dupe and Create Smart Object action.
 
 -----------------------------
 
