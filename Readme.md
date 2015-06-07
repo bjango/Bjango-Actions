@@ -1,6 +1,13 @@
-# Bjango Actions 3.1
+# Bjango Actions 3.1.1
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
+
+-----------------------------
+
+## New in version 3.1.1
+
+- Added Copy Attributes and Styles action.
+- Added Paste Attributes and Styles action.
 
 -----------------------------
 
