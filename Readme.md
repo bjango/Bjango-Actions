@@ -1,62 +1,18 @@
-# Bjango Actions 3.1.1
+![](Help/images/hero.png)
+
+# Bjango Actions
 
 Some awesome Photoshop Actions, Photoshop Scripts and Automator Workflows for iOS app and icon designers. For a full list of what the Photoshop Actions and Workflows do, please visit [bjango.com/articles/actions/](http://bjango.com/articles/actions/)
 
------------------------------
+**Download:** **[Bjango Actions](https://github.com/bjango/Bjango-Actions/archive/master.zip)** — 4.0 ([Version History](https://github.com/bjango/Bjango-Actions/blob/master/Help/Version%20History.md))
 
-## New in version 3.1.1
+-----
 
-- Added Copy Attributes and Styles action.
-- Added Paste Attributes and Styles action.
+### Help
 
------------------------------
-
-## New in version 3.1
-
-- Added Apple Watch 38mm and 42mm document creation actions.
-- Added collapse all groups to the end of actions that run scrips (cleans things up when done).
-- Added Scale by 400% action.
-- Added Dupe and Create Smart Object action.
-
------------------------------
-
-## New in version 3.0.1
-
-- Added iPhone Portrait (all models) action.
-
------------------------------
-
-## New in version 3
-
-Lots of great stuff for working with 3× UI and icon densities, including:
-
-- Scale by 300% action.
-- Scale by 33.3% action.
-- Scale to 180×180 action (for @3x iPhone home icons).
-- Scale to 192×192 action (for xxxhdpi Android home icons).
-- Scale Mask Feather scripts for 33.3% and 400%.
-- iOS Icon Export Template.psd (for those working at 1× and auto sizing/exporting app icons).
-- A workflow for batch adding @3x to filenames.
-- A workflow for batch removing @3x from filenames.
-- New Yosemite-friendly workflow icons. Hooray!
-- Lots of other small fixes.
-
------------------------------
-
-### Installation
-
-Open Terminal
-````bash
-$ cd /path/to/Bjango-Actions/
-$ ./install.sh
-````
-Restart Photoshop CC 2014
 
 ### Bjango Actions.atn
 The full set of Photoshop Actions. You’ll need to install the scripts for all of these actions to work.
-
-### iPhone Icon Template.psd and iPad Icon Template.psd
-The icon templates I use. You may or may not like it.
 
 ### Workflows/Add @2x and Add @3x
 Drag files to this guy and he’ll add @2x or @3x to the end of the filename.
@@ -82,3 +38,13 @@ All Photoshop Actions, Photoshop Panels and Automator Workflows created by Marc 
 More Photoshop articles and hugs can be found by visiting [bjango.com/articles/](http://bjango.com/articles/)
 
 Follow me on Twitter for more: [@marcedwards](https://twitter.com/marcedwards)
+
+```
+        :::::::::   :::::::     ::::      ::::    :::   ::::::::    :::::::: 
+       :+:    :+:      :+:    :+: :+:    :+:+:   :+:  :+:    :+:  :+:    :+: 
+      +:+    +:+      +:+   +:+   +:+   :+:+:+  +:+  +:+         +:+    +:+  
+     +#++:++#+       +#+  +#++:++#++:  +#+ +:+ +#+  :#:         +#+    +:+   
+    +#+    +#+      +#+  +#+     +#+  +#+  +#+#+#  +#+   +#+#  +#+    +#+    
+   #+#    #+#  #+# #+#  #+#     #+#  #+#   #+#+#  #+#    #+#  #+#    #+#     
+  #########    #####   ###     ###  ###    ####   ########    ########       
+```
