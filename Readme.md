@@ -11,12 +11,12 @@ A collection of Photoshop actions, Photoshop scripts, Hazel rules, OS X Workflow
 ### Help
 
 - [Bjango Actions](https://github.com/bjango/Bjango-Actions/blob/master/Help/Actions.md)
-- [Bjango Scale Actions](https://github.com/bjango/Bjango-Actions/blob/master//Help/Help.md#Bjango-Scale-Actions)
-- [Bjango Tools Panel](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Bjango-Tools-Panel)
-- [Hazel Rules](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Hazel-Rules)
-- [Photoshop Scripts](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Photoshop-Scripts)
-- [OS X Workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#OS-X-Workflows)
-- [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Feedback-and-future-plans)
+- [Bjango Scale Actions](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#bjango-scale-actions)
+- [Bjango Tools Panel](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#bjango-tools-panel)
+- [Hazel Rules](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#hazel-rules)
+- [Photoshop Scripts](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#photoshop-scripts)
+- [OS X Workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#os-x-workflows)
+- [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#feedback-and-future-plans)
 
 -----
 
