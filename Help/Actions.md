@@ -1,12 +1,12 @@
 # Bjango Actions
 
-- [Bjango Actions](https://github.com/bjango/Bjango-Actions/blob/Help/Actions.md)
-- [Bjango Scale Actions](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Bjango-Scale-Actions)
-- [Bjango Tools Panel](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Bjango-Tools-Panel)
-- [Hazel Rules](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Hazel-Rules)
-- [Photoshop Scripts](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Photoshop-Scripts)
-- [OS X Workflows](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#OS-X-Workflows)
-- [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Feedback-and-future-plans)
+- [Bjango Actions](https://github.com/bjango/Bjango-Actions/blob/master/Help/Actions.md)
+- [Bjango Scale Actions](https://github.com/bjango/Bjango-Actions/blob/master//Help/Help.md#Bjango-Scale-Actions)
+- [Bjango Tools Panel](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Bjango-Tools-Panel)
+- [Hazel Rules](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Hazel-Rules)
+- [Photoshop Scripts](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Photoshop-Scripts)
+- [OS X Workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#OS-X-Workflows)
+- [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#Feedback-and-future-plans)
 
 -----
 
