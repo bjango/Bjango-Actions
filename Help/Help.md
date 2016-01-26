@@ -32,7 +32,7 @@ A Photoshop CC 2015 tool panel configuration, with easier access to many common 
 
 To install the tools panel, drag `Bjango Tools Panel.tbr` to the Photoshop app icon in your Dock. Please note that some tool keyboard shortcuts will also change (`R` for rectangle, `E` for ellipse etc). These can be edited further to suit your use.
 
-![Bjango Tools Panel](tools-panel.png)
+![images/tools-panel.png](tools-panel.png)
 
 -----
 
