@@ -10,16 +10,17 @@ A collection of Photoshop actions, Photoshop scripts, Hazel rules, OS X Workflow
 
 ### Help
 
-- [help](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#help)
-- [help](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#help)
-- [help](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#help)
-- [help](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#help)
-- [help](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#help)
-- [help](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#help)
+- [Bjango Actions]()
+- [Bjango Scale Actions]()
+- [Bjango Tools Panel]()
+- [Hazel Rules]()
+- [Photoshop Scripts]()
+- [OS X Workflows]()
+- [Feedback and future plans]()
 
 -----
 
-All Photoshop Actions, Photoshop Panels and Automator Workflows created by Marc Edwards ([@marcedwards](http://twitter.com/marcedwards) on Twitter, [@marc](http://alpha.app.net/marc) on App.net). All Mask Feathering scripts by David Jensen. Scale Patterns to 100% script by David Jensen, Mike Hale, Paul MR and Jacobolus. Improvements for the Dribbble selection actions suggested and prototyped by [@darkwark](http://twitter.com/darkwark). Turn Snapping On and Turn Snapping Off scripts by Marc Edwards.
+All Photoshop Actions, Photoshop Panels and Automator Workflows created by [@marcedwards](http://twitter.com/marcedwards). All Mask Feathering scripts by David Jensen. Scale Patterns to 100% script by David Jensen, Mike Hale, Paul MR and Jacobolus. Improvements for the Dribbble selection actions suggested and prototyped by [@darkwark](http://twitter.com/darkwark). Turn Snapping On and Turn Snapping Off scripts by Marc Edwards.
 
 More Photoshop articles and hugs can be found by visiting [bjango.com/articles/](http://bjango.com/articles/)
 
