@@ -9,7 +9,7 @@
 // letting you assign a keyboard shortcut to snapping on.
 // Works well with the Turn Snapping Off script. Written by @marcedwards.
 // 
-// Place in your /Adobe Photoshop CS6/Presets/Scripts/ folder and restart Photoshop
+// Place in your /Applications/Adobe Photoshop CC 2015/Presets/Scripts/ folder and restart Photoshop
 // for the script to appear in Scripts under the File menu. 
 // 
 
