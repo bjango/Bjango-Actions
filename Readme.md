@@ -10,19 +10,19 @@ A collection of Photoshop actions, Photoshop scripts, Hazel rules, OS X Workflow
 
 ### Help
 
-- [Bjango Actions]()
-- [Bjango Scale Actions]()
-- [Bjango Tools Panel]()
-- [Hazel Rules]()
-- [Photoshop Scripts]()
-- [OS X Workflows]()
-- [Feedback and future plans]()
+- [Bjango Actions](https://github.com/bjango/Bjango-Actions/blob/Help/Actions.md)
+- [Bjango Scale Actions](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Bjango-Scale-Actions)
+- [Bjango Tools Panel](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Bjango-Tools-Panel)
+- [Hazel Rules](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Hazel-Rules)
+- [Photoshop Scripts](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Photoshop-Scripts)
+- [OS X Workflows](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#OS-X-Workflows)
+- [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/Help/Help.md#Feedback-and-future-plans)
 
 -----
 
-All Photoshop Actions, Photoshop Panels and Automator Workflows created by [@marcedwards](http://twitter.com/marcedwards). All Mask Feathering scripts by David Jensen. Scale Patterns to 100% script by David Jensen, Mike Hale, Paul MR and Jacobolus. Improvements for the Dribbble selection actions suggested and prototyped by [@darkwark](http://twitter.com/darkwark). Turn Snapping On and Turn Snapping Off scripts by Marc Edwards.
+All Photoshop Actions, Photoshop Panels and OS X Workflows created by [@marcedwards](http://twitter.com/marcedwards). All Mask Feathering scripts by David Jensen. Scale Patterns to 100% script by David Jensen, Mike Hale, Paul MR and Jacobolus. Improvements for the Dribbble selection actions suggested and prototyped by [@darkwark](http://twitter.com/darkwark). Turn Snapping On and Turn Snapping Off scripts by Marc Edwards.
 
-More Photoshop articles and hugs can be found by visiting [bjango.com/articles/](http://bjango.com/articles/)
+More design articles and hugs can be found by visiting [bjango.com/articles/](http://bjango.com/articles/).
 
 -----
 

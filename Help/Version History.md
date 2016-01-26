@@ -1,10 +1,15 @@
-# Bjango App Icon Template version history
+# Bjango Actions version history
 
 ### 4.0
 
-January 2016
+26 January 2016
 
-- ???
+- Improved overall structure of the entire project ([actions are now split into two files](http://i.imgur.com/4sdHYAv.png)).
+- Added Photoshop tool panel.
+- Added Center in Selection action.
+- Added lots of help.
+- Added BSD license.
+- Removed some document creation actions.
 
 ### 3.1.1
 
@@ -38,3 +43,7 @@ January 2016
 ### 2.3
 
 - Changed green gradient used in the icon templates and actions to match iOS 7.1 beta.
+
+### 1.0
+
+- Initial release.
