@@ -1,11 +1,11 @@
 ﻿// ------------------------------ //
 //                                //
-//   Scale Mask Feather by 300%   //
+//   Scale Mask Feather by 500%   //
 //           Vesion 1.0           //
 //                                //
 // ------------------------------ //
 // 
-// A Photoshop script to scale all Mask Feathering by 300%.
+// A Photoshop script to scale all Mask Feathering by 500%.
 // By David Jensen.
 // 
 // Place in your /Applications/Adobe Photoshop CC 2015/Presets/Scripts/ folder and restart Photoshop
@@ -13,7 +13,7 @@
 // 
 
 #target photoshop
-scaleFactor=3
+scaleFactor=5
 app.bringToFront();
 docRef=activeDocument
 if(docRef.layers.length>1 || docRef.activeLayer.isBackgroundLayer==false){

@@ -5,7 +5,7 @@
 //                                //
 // ------------------------------ //
 // 
-// A Photoshop script to scale all Mask Feathering by 200%.
+// A Photoshop script to scale all Mask Feathering by 400%.
 // By David Jensen.
 // 
 // Place in your /Applications/Adobe Photoshop CC 2015/Presets/Scripts/ folder and restart Photoshop
