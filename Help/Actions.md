@@ -5,7 +5,7 @@
 - [Bjango tools panel](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#bjango-tools-panel)
 - [Hazel rules](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#hazel-rules)
 - [Photoshop scripts](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#photoshop-scripts)
-- [OS X workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#os-x-workflows)
+- [macOS workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#macos-workflows)
 - [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#feedback-and-future-plans)
 
 -----

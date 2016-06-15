@@ -1,5 +1,11 @@
 # Bjango Actions version history
 
+### 4.0.1
+
+15 June 2016
+
+- Renamed “OS X” to “macOS” across all documentation.
+
 ### 4.0
 
 26 January 2016

@@ -5,7 +5,7 @@
 - [Bjango tools panel](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#bjango-tools-panel)
 - [Hazel rules](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#hazel-rules)
 - [Photoshop scripts](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#photoshop-scripts)
-- [OS X workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#os-x-workflows)
+- [macOS workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#macos-workflows)
 - [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#feedback-and-future-plans)
 
 -----
@@ -51,7 +51,7 @@ To install the scripts, double click `Installers/Install (Photoshop CC 2015)`, o
 
 -----
 
-### OS X workflows
+### macOS workflows
 
 A bunch of OS X workflows for adding or removing `@2x` and `@3x` from filenames. Drag files you’d like changed to the workflows to process those filenames.
 
