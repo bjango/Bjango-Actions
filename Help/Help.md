@@ -12,7 +12,7 @@
 
 ### Bjango actions
 
-Too many actions to list here. Jump over to the [Bjango Actions](https://github.com/bjango/Bjango-Actions/blob/Help/Actions.md) help document to read about them all.
+Too many actions to list here. Jump over to the [Bjango Actions](https://github.com/bjango/Bjango-Actions/blob/master/Help/Actions.md) help document to read about them all.
 
 To install the actions, double click `Bjango Actions.atn`. The actions should then be available in the `Actions` panel in Photoshop.
 
