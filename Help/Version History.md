@@ -1,5 +1,12 @@
 # Bjango Actions version history
 
+### 4.0.2
+
+23 September 2016
+
+- Added scale actions for 87×87 and 167×167.
+- Fixed some help text.
+
 ### 4.0.1
 
 15 June 2016

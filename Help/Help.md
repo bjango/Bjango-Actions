@@ -38,8 +38,7 @@ To install the tools panel, drag `Bjango Tools Panel.tbr` to the Photoshop app i
 
 ### Hazel rules
 
-Drag files to this guy and he’ll add @2x or @3x to the end of the filename.
-Hi, I’ll remove @2x or @3x from your filenames, sir.
+Some [Hazel](https://www.noodlesoft.com) rules to assist with moving, renaming and placing into folders, as per [My app design workflow](https://bjango.com/articles/appdesignworkflow/).
 
 -----
 
@@ -53,7 +52,7 @@ To install the scripts, double click `Installers/Install (Photoshop CC 2015)`, o
 
 ### macOS workflows
 
-A bunch of OS X workflows for adding or removing `@2x` and `@3x` from filenames. Drag files you’d like changed to the workflows to process those filenames.
+A bunch of macOS workflows for adding or removing `@2x` and `@3x` from filenames. Drag files you’d like changed to the workflows to process those filenames.
 
 -----
 
