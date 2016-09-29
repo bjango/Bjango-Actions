@@ -16,6 +16,8 @@ A collection of Photoshop actions, Photoshop scripts, Hazel rules, macOS workflo
 - [Hazel rules](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#hazel-rules)
 - [Photoshop scripts](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#photoshop-scripts)
 - [macOS workflows](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#macos-workflows)
+- [Version history](https://github.com/bjango/Bjango-Actions/blob/master/Help/Version%20History.md)
+- [License](https://github.com/bjango/Bjango-Actions/blob/master/Help/License.md)
 - [Feedback and future plans](https://github.com/bjango/Bjango-Actions/blob/master/Help/Help.md#feedback-and-future-plans)
 
 -----
