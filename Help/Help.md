@@ -28,6 +28,12 @@ To install the actions, double click `Bjango Scale Actions.atn`. The actions sho
 
 -----
 
+### Bjango adjustment actions
+
+Some actions to create commonly used adjustment layers, then remove the bitmap mask attached, and rename to remove ` 1` etc. Basically, a cleaner and quicker way to add gradient maps, levels, curves and vibracy adjustment layers.
+
+-----
+
 ### Bjango tools panel
 
 A Photoshop CC 2015 tool panel configuration, with easier access to many common screen design tools.

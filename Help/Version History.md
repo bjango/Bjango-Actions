@@ -1,5 +1,14 @@
 # Bjango Actions version history
 
+### 4.1
+
+7 October 2016
+
+- Added gradient map action.
+- Added levels map action.
+- Added curves map action.
+- Added vibrance map action.
+
 ### 4.0.2
 
 23 September 2016
