@@ -4,7 +4,7 @@
 
 A collection of Photoshop actions, Photoshop scripts, Hazel rules, macOS workflows and other random things for screen designers and developers. All free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Actions/blob/master/Help/License.md).
 
-**Download:** **[Bjango Actions](https://github.com/bjango/Bjango-Actions/archive/master.zip)** — 4.0.2 ([version history](https://github.com/bjango/Bjango-Actions/blob/master/Help/Version%20History.md))
+**Download:** **[Bjango Actions](https://github.com/bjango/Bjango-Actions/archive/master.zip)** — 4.2 ([version history](https://github.com/bjango/Bjango-Actions/blob/master/Help/Version%20History.md))
 
 -----
 

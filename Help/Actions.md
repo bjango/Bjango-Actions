@@ -116,7 +116,13 @@ Centers the currently selected layers on the canvas.
 
 -----
 
-### Dupe and create smart object
+### Duplicate and move
+
+Duplicates the currently selected layers, moves them to the top of the layer list, then collapses all groups. This makes it easier to move duplicated layers to somewhere else in the document.
+
+-----
+
+### Duplicate and create smart object
 
 Duplicates the currently selected layers, then turns the duplicate into a Smart Object, leaving the original untouched.
 

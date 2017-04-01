@@ -1,5 +1,11 @@
 # Bjango Actions version history
 
+### 4.2
+
+1 April 2017
+
+- Added duplicate and move action.
+
 ### 4.1
 
 7 October 2016
