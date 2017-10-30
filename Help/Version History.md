@@ -1,5 +1,13 @@
 # Bjango Actions version history
 
+### 4.3
+
+30 October 2017
+
+- Added “Assign: sRGB” action.
+- Improved action name “Assign: Don’t Colour Manage” action.
+- Improved the actions to create 512×512 and 1024×1024 document actions (they now create sRGB documents). 
+
 ### 4.2
 
 1 April 2017

@@ -18,17 +18,23 @@ These enable and disable Snap Vector Tools and Transforms to Pixel Grid. Please 
 
 ### New 512×512 and 1024×1024 document
 
-Actions to create 512×512 and 1024×1024 pixel 72DPI documents, with global light set to 90º, and the display’s colour space (`Don’t Color Manage This Document`).
+Actions to create 512×512 and 1024×1024 pixel 72DPI documents, with global light set to 90º, and the sRGB colour space.
 
 -----
 
-### Don’t colour manage
+### Assign: sRGB
 
-Assigns the colour profile of `Don’t Color Manage This Document`, which is how all your UI documents should be, if you don’t like your colours being butchered. The new document Actions also assign `Don’t Color Manage This Document` as the colour profile, so you shouldn’t need this one too often.
+Assigns the `sRGB` colour profile to your document.
 
 -----
 
-### Set global light to 90&deg;
+### Assign: Don’t colour manage
+
+Assigns the colour profile of `Don’t Color Manage This Document`.
+
+-----
+
+### Set global light to 90º
 
 Sets the light source used for Layer Styles to directly above, which matches Apple’s HIG and the native iOS and Mac UI (as well as most other platforms). To accomplish this, the Action creates a bitmap layer, sets the light, then deletes the layer. This was done so the Action works, no matter what you have selected.
 
