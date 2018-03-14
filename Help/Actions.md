@@ -22,15 +22,21 @@ Actions to create 512×512 and 1024×1024 pixel 72DPI documents, with global lig
 
 -----
 
-### Assign: sRGB
+### Assign: sRGB and Display P3
 
-Assigns the `sRGB` colour profile to your document.
+Assigns the `sRGB` or `Display P3` colour profile to your document.
 
 -----
 
 ### Assign: Don’t colour manage
 
 Assigns the colour profile of `Don’t Color Manage This Document`.
+
+-----
+
+### Convert: sRGB and Display P3
+
+Converts the document to `sRGB` or `Display P3`.
 
 -----
 

@@ -1,5 +1,11 @@
 # Bjango Actions version history
 
+### 4.4
+
+14 March 2018
+
+- Added “Convert: sRGB” and “Convert: Display P3” actions.
+
 ### 4.3
 
 30 October 2017
