@@ -1,5 +1,11 @@
 # Bjango Actions version history
 
+### 4.5
+
+4 October 2018
+
+- Improved the new document actions (they now set some Save For Web options).
+
 ### 4.4
 
 14 March 2018
@@ -55,10 +61,14 @@
 
 ### 3.1.1
 
+8 June 2015
+
 - Added Copy Attributes and Styles action.
 - Added Paste Attributes and Styles action.
 
 ### 3.1
+
+16 April 2015
 
 - Added Apple Watch 38mm and 42mm document creation actions.
 - Added collapse all groups to the end of actions that run scrips (cleans things up when done).
@@ -67,9 +77,13 @@
 
 ### 3.0.1
 
+23 September 2014
+
 - Added iPhone Portrait (all models) action.
 
 ### 3.0
+
+11 September 2014
 
 - Scale by 300% action.
 - Scale by 33.3% action.
@@ -84,8 +98,12 @@
 
 ### 2.3
 
+9 January 2014
+
 - Changed green gradient used in the icon templates and actions to match iOS 7.1 beta.
 
 ### 1.0
+
+1 July 2012
 
 - Initial release.
