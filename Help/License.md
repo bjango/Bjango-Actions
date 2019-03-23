@@ -1,6 +1,6 @@
 ### License
 
-©2017 Bjango and Marc Edwards. Released under the BSD license. All rights reserved.
+©2019 Bjango and Marc Edwards. Released under the BSD license. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
