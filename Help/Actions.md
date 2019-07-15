@@ -40,6 +40,12 @@ Converts the document to `sRGB` or `Display P3`.
 
 -----
 
+### sRGB Gamut Test
+
+Compares the current document to sRGB, to see if there’s any differences. [Here’s why and how testing for wide gamut is a good thing](https://bjango.com/articles/testingforwidegamut/).
+
+-----
+
 ### Set global light to 90º
 
 Sets the light source used for Layer Styles to directly above, which matches Apple’s HIG and the native iOS and Mac UI (as well as most other platforms). To accomplish this, the Action creates a bitmap layer, sets the light, then deletes the layer. This was done so the Action works, no matter what you have selected.
