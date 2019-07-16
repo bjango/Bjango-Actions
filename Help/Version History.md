@@ -1,5 +1,11 @@
 # Bjango Actions version history
 
+### 4.6.1
+
+16 July 2019
+
+- Improved sRGB Gamut Test action.
+
 ### 4.6
 
 15 July 2019
