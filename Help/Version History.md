@@ -1,5 +1,11 @@
 # Bjango Actions version history
 
+### 4.6.2
+
+4 May 2020
+
+- Added Trim Using Top Left action.
+
 ### 4.6.1
 
 16 July 2019

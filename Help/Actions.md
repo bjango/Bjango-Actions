@@ -76,6 +76,12 @@ Trims the document to the smallest possible size, removing transparent pixels.
 
 -----
 
+### Trim using top left
+
+Trims the document to the smallest possible size, using the top left pixel colour as the basis for the trimming.
+
+-----
+
 ### Copy/paste attributes and styles
 
 Copy Attributes and Styles copies the currently selected shape layer’s shape attributes (fill, stroke etc) and layer styles. Only works when a single shape layer is selected.
