@@ -13,7 +13,7 @@
 ### Pixel snapping on and pixel snapping off
 
 These enable and disable Snap Vector Tools and Transforms to Pixel Grid. Please note that you need Photoshop CS6, CC or CC 2014 for these actions to function.
-			
+
 -----
 
 ### New 512×512 and 1024×1024 document
@@ -55,7 +55,7 @@ Sets the light source used for Layer Styles to directly above, which matches App
 ### View shadow detail
 
 Inserting a Levels Adjustment layer can help you see and edit details hidden deep in the darker portions of your image. This is a trick I started using years ago, when retouching photos, but it works just as well for UI design. It’s far easier and better than cranking up the brightness on your display, which only goes so far. Just run this Action and move the adjustment layer to the very top layer. Turn it on when you need to see shadow details. Turn it off the rest of the time.
-			
+
 -----
 
 ### Add colour blindness testing
@@ -93,7 +93,7 @@ Paste Attributes and Styles pastes the shape attributes and layer styles on the 
 ### Copy merged to new
 
 Copies the current bitmap selection using Copy Merged, creates a new document to match the clipboard’s size, then pastes.
-			
+
 -----
 
 ### Copy entire canvas
@@ -152,24 +152,12 @@ Duplicates the currently selected layers, then turns the duplicate into a Smart 
 
 -----
 
-### Dribbble selection
-
-Creates a 300×400 pixel marquee selection. Move the selection as desired, and run the action again to have the selection copied to a new document, ready to be saved as a PNG and uploaded to Dribbble for the world to see.
-			
------
-
-### Dribbble @2x selection
-
-Creates a 600×800 pixel marquee selection. Use as above, but for Retina-sized Dribbble shots.
-
------
-
 ### OS default text antialiasing
 
 Select some text layers, run this to change the antialiasing the OS default. This action requires Photoshop CC.
-			
+
 -----
 
-### Create grey block
+### Create dark grey, grey, and white background
 
 Creates a solid fill layer, often suitable as a nice background. It will be placed as the bottom layer.
